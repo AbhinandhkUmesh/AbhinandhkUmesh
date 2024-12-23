@@ -19,18 +19,6 @@
 
 ---
 
-## 🌐 **Highlighted Projects**  
-- 🚀 **[E-commerce Website](#)**  
-  *Modern and responsive online store, hosted on AWS.*  
-
-- 💬 **[Chat Application](#)**  
-  *Real-time chat app built with React, TypeScript, and Node.js.*  
-
-- 🎨 **[Landing Pages](#)**  
-  *Creative and user-friendly responsive web designs.*  
-
----
-
 ## ✨ **About Me**  
 🌟 Self-taught developer with a passion for crafting innovative solutions.  
 🌍 Founder of `mallugram` and `Bangalore Malayalees` on y99.  
@@ -50,6 +38,17 @@
 
 ---
 
+## 🌐 **Highlighted Projects**  
+- 🚀 **[E-commerce Website](#)**  
+  *Modern and responsive online store, hosted on AWS.*  
+
+- 💬 **[Chat Application](#)**  
+  *Real-time chat app built with React, TypeScript, and Node.js.*  
+
+- 🎨 **[Landing Pages](#)**  
+  *Creative and user-friendly responsive web designs.*  
+
+---
 ## 📫 **Let’s Connect**  
 <div>
   <a href="mailto:abhikappana@gmail.com">
