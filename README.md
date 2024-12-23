@@ -1,48 +1,60 @@
-# Hi, I'm Abhinandh K! 👋
+# 👋 Hi, I'm **Abhinandh K**  
 
-🌟 **Dedicated Full-Stack Developer | Creative Designer**  
-🔍 **Open to Opportunities | Collaborator | Innovator**
-
----
-
-## 🔧 **Technologies I Work With**
-- **Frontend:** React.js, TypeScript, EJS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools & Platforms:** Figma, AWS, Nginx, Git
+🌟 **Full-Stack Developer | Creative Designer | Innovator**  
+🔍 Open to Opportunities | Collaborator | Problem Solver  
 
 ---
 
-## 🌐 **My Projects**
-- 🚀 [**E-commerce Website**](#) - A modern and responsive online store (hosted on AWS).
-- 💬 [**Chat Application**](#) - Built with React, TypeScript, and Node.js.
-- 🎨 [**Landing Pages**](#) - User-friendly and responsive designs.
+## 🔧 **Technologies I Work With**  
+<div>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="Nginx" />
+</div>
 
 ---
 
-## ✨ **About Me**
-🌟 Self-taught developer driven by curiosity and passion.  
-🌍 Founder of 'mallugram' and 'Bangalore Malayalees' communities on y99.  
-💡 Crafting seamless and captivating digital experiences.
+## 🌐 **Highlighted Projects**  
+- 🚀 **[E-commerce Website](#)**  
+  *Modern and responsive online store, hosted on AWS.*  
 
-![Abhinandh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhikappana&show_icons=true&theme=radical)
+- 💬 **[Chat Application](#)**  
+  *Real-time chat app built with React, TypeScript, and Node.js.*  
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhikappana&layout=compact&theme=radical)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhikappana&theme=radical)
-
-
-
-![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
-![Figma](https://img.shields.io/badge/-Figma-lightgrey?logo=figma)
+- 🎨 **[Landing Pages](#)**  
+  *Creative and user-friendly responsive web designs.*  
 
 ---
 
-## 📫 **Let’s Connect**
-- 📧 Email: abhikappana@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/abhikappana)  
-- 🖥️ [Portfolio](https://abhinandh.vercel.app/)
+## ✨ **About Me**  
+🌟 Self-taught developer with a passion for crafting innovative solutions.  
+🌍 Founder of `mallugram` and `Bangalore Malayalees` on y99.  
+💡 Thriving at the intersection of technology and creativity to deliver captivating digital experiences.  
+
+---
+
+## 📈 **GitHub Stats**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhikappana&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhikappana&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
+
+---
+
+## 📫 **Let’s Connect**  
+<div>
+  <a href="mailto:abhikappana@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhikappana">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://abhinandh.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
+</div>
