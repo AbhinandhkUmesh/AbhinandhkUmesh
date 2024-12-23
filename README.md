@@ -25,11 +25,14 @@
 🌍 Founder of 'mallugram' and 'Bangalore Malayalees' communities on y99.  
 💡 Crafting seamless and captivating digital experiences.
 
-![Abhinandh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Abhinandh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhikappana&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhikappana&layout=compact&theme=radical)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhikappana&theme=radical)
+
 
 
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
