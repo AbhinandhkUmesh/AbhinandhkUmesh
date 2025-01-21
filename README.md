@@ -20,8 +20,7 @@
 ---
 
 ## ✨ **About Me**  
-🌟 Self-taught developer with a passion for crafting innovative solutions.  
-🌍 Founder of `mallugram` and `Bangalore Malayalees` on y99.  
+🌟 Self-taught developer with a passion for crafting innovative solutions.    
 💡 Thriving at the intersection of technology and creativity to deliver captivating digital experiences.  
 
 ---
