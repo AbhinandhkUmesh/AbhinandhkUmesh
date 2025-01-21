@@ -27,12 +27,12 @@
 
 ## 📈 **GitHub Stats & Contribution Graph**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhikappana&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhikappana&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinandhkUmesh&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandhkUmesh&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhikappana&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinandhkUmesh&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
