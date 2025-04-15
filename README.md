@@ -41,8 +41,8 @@
 - 🚀 **[E-commerce Website](#)**  
   *Modern and responsive online store, hosted on AWS.*  
 
-- 💬 **[Chat Application](#)**  
-  *Real-time chat app built with React, TypeScript, and Node.js.*  
+- 💬 **[AbMU6 - Music Streaming and Social Platform](https://abmu6.onrender.com/)**  
+  *Music streaming and social interaction platform.*
 
 - 🎨 **[Landing Pages](#)**  
   *Creative and user-friendly responsive web designs.*  
